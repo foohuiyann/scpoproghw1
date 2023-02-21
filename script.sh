@@ -9,8 +9,9 @@ set -e
 # Here is a list of tasks for you.
 
 # 0. Tell me who worked on this together
-echo "student 1"   # please fill in names here
-echo "student 2"
+echo "Ignacio GARIJO CAMPOS"   # please fill in names here
+echo "Rhea BHATIA"
+echo "Hui Yann FOO"
 
 # 1. Go to your home directory: 
 # (enter your command below)

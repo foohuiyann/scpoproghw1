@@ -15,12 +15,14 @@ echo "Hui Yann FOO"
 
 # 1. Go to your home directory: 
 # (enter your command below)
-cd C:/Users/foohu
+cd ~
 
 
 # 2. from your home, creating a directory structure: new folder `scpoprogramming`, and inside that folder create folder `hw1`
 # (enter your command below)
-mkdir -p ~/scprprogramming/hw1
+mkdir ~/scpoprogramming
+cd scpoprogramming
+mkdir hw1
 
 
 
